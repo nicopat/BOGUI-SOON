@@ -45,9 +45,15 @@ body{
   margin:0;
   font-family:plantagenet-cherokee;
   font-size:8em;
-  color:#ffffff;
+  color:white;
   text-align:center;
+  line-height: 0.8;
 }
 .not-fullscreen {
   height:50%;
+}
+.social-links, .social-links:hover{
+  font-size: 0.2em;
+  color: white;
+  text-decoration: none;
 }
